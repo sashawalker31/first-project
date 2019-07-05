@@ -1,0 +1,67 @@
+a.instagram {
+  background-image: url(images/instagram-new-logo-may-2016.jpg);
+}
+
+a.email {
+  background-image: url(images/gmail.svg.png);
+}
+
+a.social {
+  display: inline-block;
+  text-indent: -9999px;
+  margin-left: 5px;
+  width: 30px;
+  height: 30px;
+  background-size: 30px 30px;
+  opacity: 1;
+}
+
+h2 {
+  color: purple;
+}
+
+img [alt="moon phases"] {
+    width:99px;
+    height:62px;
+    position: absolute;
+}
+
+.tag{
+  background-color: grey;
+  padding:10px;
+  border-radius:5px;
+  margin:5px;
+  font-family: lobster;
+}
+
+.name{
+
+}
+
+.location{
+
+}
+
+.body {
+  font-family: 'Indie Flower', cursive;
+}
+
+.thin-black-border {
+    border-color: black;
+    border-width: inherit;
+    border-style: solid;
+    border: 3px rgba(0, 0, 0, 0.2);
+    flex-grow: 1;
+  }
+
+h1 {
+  font-family: lobster;
+}
+
+h3 {
+  font-family: lobster;
+}
+
+.header{
+  word-spacing: 30px;
+}
